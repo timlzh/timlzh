@@ -1,4 +1,4 @@
-### 高三准大一苣蒻
+### UESTC大一蒟蒻
 ![](https://github-readme-stats.vercel.app/api?username=timlzh&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=timlzh&layout=compact)  
 
