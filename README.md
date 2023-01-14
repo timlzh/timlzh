@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=timlzh&show_icons=true&icon_color=CE1D2D&text_color=ffffff&bg_color=000000" />
+<img align="right" src="https://github-stats-timlzh.vercel.app/api?username=timlzh&show_icons=true&icon_color=CE1D2D&text_color=ffffff&bg_color=000000" />
 
 ### Hi, here is Timlzh👋
 
