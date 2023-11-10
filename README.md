@@ -38,4 +38,4 @@
 
 ## My Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=timlzh&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=timlzh&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A" />
